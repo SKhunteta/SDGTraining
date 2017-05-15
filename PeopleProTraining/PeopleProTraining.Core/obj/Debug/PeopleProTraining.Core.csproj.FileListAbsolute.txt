@@ -1,0 +1,9 @@
+C:\Users\khuntets\Source\Repos\SDGTraining3\PeopleProTraining\PeopleProTraining.Core\bin\Debug\PeopleProTraining.Core.dll
+C:\Users\khuntets\Source\Repos\SDGTraining3\PeopleProTraining\PeopleProTraining.Core\bin\Debug\PeopleProTraining.Core.pdb
+C:\Users\khuntets\Source\Repos\SDGTraining3\PeopleProTraining\PeopleProTraining.Core\bin\Debug\PeopleProTraining.Dal.dll
+C:\Users\khuntets\Source\Repos\SDGTraining3\PeopleProTraining\PeopleProTraining.Core\bin\Debug\EntityFramework.dll
+C:\Users\khuntets\Source\Repos\SDGTraining3\PeopleProTraining\PeopleProTraining.Core\bin\Debug\PeopleProTraining.Dal.pdb
+C:\Users\khuntets\Source\Repos\SDGTraining3\PeopleProTraining\PeopleProTraining.Core\bin\Debug\EntityFramework.xml
+C:\Users\khuntets\Source\Repos\SDGTraining3\PeopleProTraining\PeopleProTraining.Core\obj\Debug\PeopleProTraining.Core.csprojResolveAssemblyReference.cache
+C:\Users\khuntets\Source\Repos\SDGTraining3\PeopleProTraining\PeopleProTraining.Core\obj\Debug\PeopleProTraining.Core.dll
+C:\Users\khuntets\Source\Repos\SDGTraining3\PeopleProTraining\PeopleProTraining.Core\obj\Debug\PeopleProTraining.Core.pdb

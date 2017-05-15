@@ -1,0 +1,5 @@
+C:\Users\khuntets\Source\Repos\SDGTraining3\PeopleProTraining\PeopleProDB\bin\Debug\PeopleProDB.dacpac
+C:\Users\khuntets\Source\Repos\SDGTraining3\PeopleProTraining\PeopleProDB\bin\Debug\PeopleProDB.dll
+C:\Users\khuntets\Source\Repos\SDGTraining3\PeopleProTraining\PeopleProDB\bin\Debug\PeopleProDB.pdb
+C:\Users\khuntets\Source\Repos\SDGTraining3\PeopleProTraining\PeopleProDB\obj\Debug\PeopleProDB.dll
+C:\Users\khuntets\Source\Repos\SDGTraining3\PeopleProTraining\PeopleProDB\obj\Debug\PeopleProDB.pdb
